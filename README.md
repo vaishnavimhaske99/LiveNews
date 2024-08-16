@@ -4,6 +4,9 @@
 
 Welcome to my News website! This site news, What you want to search these all News are available live. I have created this website using plain HTML, CSS,JavaScript and open Api .
 
+
+![Design (1)](https://github.com/user-attachments/assets/911de35a-2394-466f-81c9-f84ad2240ccb)
+
 ## Technologis
 
 - HTML: For the structure of the website.
