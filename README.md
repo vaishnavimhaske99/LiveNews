@@ -7,6 +7,9 @@ Welcome to my News website! This site news, What you want to search these all Ne
 
 ![Design (1)](https://github.com/user-attachments/assets/911de35a-2394-466f-81c9-f84ad2240ccb)
 
+![Design 1](https://github.com/user-attachments/assets/9749f7d2-2ab0-40b2-9708-9974cf932160)
+
+
 ## Technologis
 
 - HTML: For the structure of the website.
