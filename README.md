@@ -2,7 +2,7 @@
 # News web
 
 
-Welcome to my News website! This site news, What you want to search these all News are available live. I have created this website using plain HTML, CSS, and JavaScript.
+Welcome to my News website! This site news, What you want to search these all News are available live. I have created this website using plain HTML, CSS,JavaScript and open Api .
 
 ## Technologis
 
