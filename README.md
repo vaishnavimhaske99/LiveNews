@@ -23,7 +23,6 @@ Clone the repository:
 git clone https:https://github.com/vaishnavimhaske99/LiveNews.git
 Navigate to the project directory:
 cd portfolio
-Open index.html in your browser to view the http://127.0.0.1:5500/
 
 
 ## Contact
